@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miroslawswiader
 - 👀 I’m interested in running
 - 🌱 I’m currently learning running faster downhill
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with someone faster than me
 - 📫 How to reach me miroslaw.swiader@intel.com
 
 <!---
